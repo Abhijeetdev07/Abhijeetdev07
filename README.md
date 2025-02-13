@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhijeetdev07](https://github.com/Abhijeetdev07)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Web Developement**
 
 - 📫 How to reach me **ugaleabhijeet03@gmail.com**
 
