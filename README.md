@@ -18,14 +18,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetdev07&show_icons=true&locale=en" alt="abhijeetdev07" /></p>
 
-- 🌱 I’m currently learning **with express.js
+- 🌱 I’m currently learning **with docker
 
-- 👯 I’m looking to collaborate on **innovative web development projects, including building dynamic websites, crafting seamless user experiences, and implementing modern web technologies**
+- 👯 I’m looking to collaborate on **innovative mern development projects, including building dynamic websites, crafting seamless user experiences, and implementing modern web technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhijeetdev07](https://github.com/Abhijeetdev07)
 
-- 💬 Ask me about **Web Developement**
+- 💬 Ask me about **full stack Developement**
 
 - 📫 How to reach me **ugaleabhijeet03@gmail.com**
-
-- ⚡ Fun fact **turn caffeine and code into interactive magic on the internet! 🚀**
