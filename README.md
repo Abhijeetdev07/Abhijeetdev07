@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Ugale</h1>
-<h3 align="center">Hi there! I’m a passionate Web Developer who loves building modern, responsive, and user-friendly web applications.</h3> 
+<h3 align="center">Hi there! I’m a passionate Web Developer builds responsive, and user-friendly web applications with latest technologies.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetdev07&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetdev07" /> </p>
 
