@@ -22,8 +22,8 @@
 
 - 👯 I’m looking to collaborate on **innovative mern development projects, including building dynamic websites, crafting seamless user experiences, and implementing modern web technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhijeetdev07](https://github.com/Abhijeetdev07)
-- visit my portfolio at https://abhijeet-portfolio-qjfz.onrender.com/
+- 👨‍💻 All of my projects are available at [github](https://github.com/Abhijeetdev07)
+- visit my portfolio at [portfolio](https://abhijeetugale.onrender.com/)
 
 - 💬 Ask me about **full stack Developement**
 
